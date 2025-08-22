@@ -1,4 +1,4 @@
-# Gerenciador de Tarefas de Auditoria (SIAI)
+# Gerenciador de Tarefas 
 
 Este é um sistema de desktop completo desenvolvido em Python para gerenciar tarefas, atividades e relatórios relacionados a processos de auditoria interna. O projeto foi construído do zero, abrangendo desde a lógica de banco de dados até a interface gráfica do usuário.
 
